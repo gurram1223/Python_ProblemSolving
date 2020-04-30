@@ -1,3 +1,5 @@
+# Find all documents which contain search keywords and phrases.
+
 import os
 from sklearn.feature_extraction.text import CountVectorizer
 
